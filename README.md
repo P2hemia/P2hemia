@@ -1,4 +1,4 @@
-<h1>Howdy!, I am <a href="https://github.com/P2hemia">小董同学</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1>Howdy!, I am <a href="https://github.com/P2hemia">小张同学</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 🎓I'm an **Undergrad Student [ @NYIST ](https://www.nyist.edu.cn/)** pursuing Science. **Software engineering student** <br/><br/>
